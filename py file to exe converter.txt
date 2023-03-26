@@ -1,0 +1,11 @@
+installatin process
+
+step 1: go to cmd
+
+step 2: pip installer pyinstaller
+
+step 3: ls
+
+step 4: dir
+
+step 5: pyinstaller --onefile invoice genetor.py
